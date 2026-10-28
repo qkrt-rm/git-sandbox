@@ -1,2 +1,6 @@
-if __name__ == '__main__':
-    print("Hello, World")
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
